@@ -81,17 +81,10 @@
 		<mavenprotoc.version>3.11.4</mavenprotoc.version>
 		<guice.version>5.1.0</guice.version>
 		<skipITs>true</skipITs>
-<<<<<<< Updated upstream
 		<vfs2.version>2.9.0</vfs2.version>
 		<configuration2.version>2.9.0</configuration2.version>
-		<hbase.version>2.5.5</hbase.version>
-		<hadoop.version>3.3.6</hadoop.version>
-=======
-		<vfs2.version>2.3</vfs2.version>
-		<configuration2.version>2.3</configuration2.version>
 		<hbase.version>2.5.12</hbase.version>
 		<hadoop.version>2.10.2</hadoop.version>
->>>>>>> Stashed changes
 		<avro.version>1.7.6</avro.version>
 		<awssdk.version>1.11.1015</awssdk.version>
 		<httpclient.version>4.5.13</httpclient.version>
@@ -100,21 +93,12 @@
 		<accumulo.scope>compile</accumulo.scope>
 		<hbase.scope>compile</hbase.scope>
 		<hadoop.scope>compile</hadoop.scope>
-<<<<<<< Updated upstream
-		<jetty.version>11.0.17</jetty.version>
-		<bouncycastle.version>1.70</bouncycastle.version>
-		<lz4.version>1.8.0</lz4.version>
-		<zookeeper.version>3.8.2</zookeeper.version>
-		<jersey.version>3.1.3</jersey.version>
-		<scala.version>2.12.18</scala.version>
-=======
 		<jetty.version>9.4.43.v20210629</jetty.version>
 		<bouncycastle.version>1.69</bouncycastle.version>
 		<lz4.version>1.7.1</lz4.version>
 		<zookeeper.version>3.8.4</zookeeper.version>
 		<jersey.version>2.23.1</jersey.version>
 		<scala.version>2.12.13</scala.version>
->>>>>>> Stashed changes
 		<kafka.artifact>kafka_2.12</kafka.artifact>
 		<kafka.version>3.5.1</kafka.version>
 		<snappy.version>1.1.10.4</snappy.version>
